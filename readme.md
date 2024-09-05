@@ -1,6 +1,6 @@
 # Task Extraction and Financial Recommendation Software
 
-This repository contains two main programs: a Task Extraction software and a Financial Recommendation software. Both programs leverage machine learning techniques to provide efficient solutions for task management and investment recommendations.
+This repository contains two main programs: a Task Extraction software and a Financial Recommendation software. 
 
 ## 1. Task Extraction Software
 
