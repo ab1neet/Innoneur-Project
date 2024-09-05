@@ -62,10 +62,4 @@ To set up the environment for both programs:
 pip install pandas numpy scikit-learn scipy joblib transformers torch datasets nltk
 ```
 
-## Contributing
 
-Contributions to improve either program are welcome. Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
